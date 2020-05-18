@@ -38,7 +38,7 @@ newpay-hep-ios
 ```
 
 #### no-hierarchy
-use project-name
+use project name
 ```
 www
 explorer
