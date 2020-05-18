@@ -16,9 +16,9 @@ Unless there is a good reason not to, repo names should follow these constraints
 
 #### multi-hierarchy
 
-use hierarchy_1-hierarchy_2-hierarchy_3
+use [project name]-[function]-[programming language]
 
-- hierarchy_1:
+- project name:
     - newchain-lib
     - newpay
     - component
@@ -26,11 +26,18 @@ use hierarchy_1-hierarchy_2-hierarchy_3
     - docs
     - newkit
 
-- hierarchy_2:
-    - function(hdkeys, block...)
+- function:
+    - hdkeys
+    - block
+    - hep
+    - web3
+    - ...
 
-- hierarchy_3:
-    - programming language(python、js、java...)
+- programming language:
+    - python
+    - js
+    - java
+    - ...
 ```
 newchain-lib-web3-js
 newchain-lib-block-js
