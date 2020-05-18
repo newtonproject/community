@@ -33,12 +33,15 @@ hierarchy_1-hierarchy_2-hierarchy_3
     - programming language(python、js、java...)
 
 >   newchain-lib-web3-js
-    newchain-lib-block-js
-    newpay-hep-ios
+
+>   newchain-lib-block-js
+
+>   newpay-hep-ios
 
 #### no-hierarchy
 
 project-name
 
 > www
-  explorer
+
+> explorer
