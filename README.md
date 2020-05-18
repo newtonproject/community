@@ -16,7 +16,7 @@ Unless there is a good reason not to, repo names should follow these constraints
 
 #### multi-hierarchy
 
-hierarchy_1-hierarchy_2-hierarchy_3
+use hierarchy_1-hierarchy_2-hierarchy_3
 
 - hierarchy_1:
     - newchain-lib
@@ -31,17 +31,15 @@ hierarchy_1-hierarchy_2-hierarchy_3
 
 - hierarchy_3:
     - programming language(python、js、java...)
-
->   newchain-lib-web3-js
-
->   newchain-lib-block-js
-
->   newpay-hep-ios
+```
+newchain-lib-web3-js
+newchain-lib-block-js
+newpay-hep-ios
+```
 
 #### no-hierarchy
-
-project-name
-
-> www
-
-> explorer
+use project-name
+```
+www
+explorer
+```
