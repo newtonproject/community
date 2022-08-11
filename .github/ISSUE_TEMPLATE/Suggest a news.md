@@ -30,7 +30,7 @@ Eg, NewPay
 1.
 1.
 
-## Content introduction *** If there are format requirements, please make notes.
+## Content introduction If there are format requirements, please make notes.
  <A brief description of the content that needs to be published, if the content cannot be changed, please make a note “do not change it at will”>
 / /1. Brief Introduction
  2. Description of the current situation
