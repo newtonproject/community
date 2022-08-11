@@ -6,7 +6,7 @@ Go to newtonproject/community/News, click [here](https://github.com/newtonprojec
  Example:
  Title: <Theme + Ecological Project> eg: Weekly report for Newton_project
 
-The News had published, and the issue link will be stored in the specific file for backup.
+The News had published, and the issue link will be stored in the [specific file](https://github.com/newtonproject/community/tree/master/News) for backup.
 
 No need to fill in <> in Title.
 Please fill in the information one by one according to the template requirements, and submit the issue after ensuring that the information is correct.
