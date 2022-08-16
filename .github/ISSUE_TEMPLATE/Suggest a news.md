@@ -54,7 +54,7 @@ Eg, NewPay
 1.
 1.
 
-## launch way（choose from Twitter/Discord/Medium/Official website/Reddit/Telegram）
+##  Release Channel（choose from Twitter/Discord/Medium/Official website/Reddit/Telegram）
 1. 
 1. 
 1.
