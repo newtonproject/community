@@ -1,8 +1,9 @@
 ## Newton weekly report
 
 22.8.13
+[link](https://github.com/newtonproject/community/issues/2 )
 
-https://github.com/newtonproject/community/issues/2 
+
 
 ## Andverse weekly report 
 
