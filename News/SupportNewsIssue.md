@@ -33,11 +33,13 @@ Eg, NewPay
 3.
 
  ***Notes***
+  
 1.
 1.
 1.
 
  ***Contact details***
+  
 1.
 1.
 1.
