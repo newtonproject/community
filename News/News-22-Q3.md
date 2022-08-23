@@ -1,6 +1,6 @@
 ## Newton weekly report 2022.8.8-2022.8.12
 
-22.8.13
+22.8. 13
 
 [Link](https://github.com/newtonproject/community/issues/2 )
 
